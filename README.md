@@ -1,0 +1,1 @@
+In this project I have tried to classify blogs into three large categories in line of age bracket.After that I've developed an NLP classifier which can use input text parameter to determine the labels of the blog. 
